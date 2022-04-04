@@ -1,10 +1,8 @@
-# Databricks notebook source
+
 # MAGIC %md West Nile Virus Project
 
 # COMMAND ----------
 
-# Databricks notebook source
-## Databricks notebook source
 # Import Packages
 
 #Admin
